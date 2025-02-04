@@ -1,73 +1,64 @@
 # section information
 section:
-  name: Experiences
+  name: Career
   id: experiences
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
 
 # Your experiences
 experiences:
+
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    name: Connection
+    url: "https://www.connection.com"
+    location: Nashua, NH
+    logo: /images/sections/experiences/cnxn_onW.png
+    darkLogo: /images/sections/experiences/cnxn_onB.png
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Marketing for B2B technology sales.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  - designation: Motion Graphics Designer
+    start: 2021
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: YES Network
+    url: "https://www.yesnetwork.com"
+    location: New York, NY
+    logo: /images/sections/experiences/yes_onW.png
+    darkLogo: /images/sections/experiences/yes_onB.png
+    overview: Biggest regional sports broadcaster in the USA.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Motion Graphics Designer
+    start: 2019
+    end: 2021
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Pittsburgh Penguins
+    url: "https://www.nhl.com/penguins/"
+    location: Pittsburgh, PA
+    logo: /images/sections/experiences/pgh_onW.png
+    darkLogo: /images/sections/experiences/pgh_onB.png
+    overview: In-game and digital content designer.
   positions:
+  - designation: Motion Graphics Designer
+    start: 2014
+    end: 2019
+
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    start: 2013
+    end: 2014
+
+
+- company:
+    name: Art Institute of Pittsburgh
+    url: "https://www.pittsburghpenguins.com"
+    location: Pittsburgh, PA
+    logo: /images/sections/experiences/aip_onW.png
+    darkLogo: /images/sections/experiences/aip_onB.png
+  positions:
+  - designation: B.Sc. in Visual Effects and Motion Graphics
+    start: 2011
+    end: 2014
