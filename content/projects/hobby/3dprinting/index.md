@@ -7,7 +7,7 @@ menu:
     name: 3D Printing
     identifier: 3dprint
     parent: hobby
-    weight: 10
+    weight: 30
 tags: ["hobby", "3dprint"]
 categories: ["Basic"]
 ---

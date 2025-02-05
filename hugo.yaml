@@ -1,6 +1,6 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://distillivisual.com
 
-languageCode: bn
+languageCode: en
 title: "DistilliVisual"
 
 # Use Hugo modules to add theme
@@ -64,13 +64,14 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/ddthrow/distillivisual.com
+#  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
   # Default branch of your Git repo
   gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 3
 
   # Configure various features of this theme
   features:

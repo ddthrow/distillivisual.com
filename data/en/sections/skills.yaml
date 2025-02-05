@@ -55,7 +55,7 @@ skills:
   categories: ["make"]
 
 
-
+    
 
 - name: Node-Red
   logo: /images/sections/skills/node-red.png
@@ -72,17 +72,17 @@ skills:
   
 - name: Ansible
   logo: /images/sections/skills/ansible.png
-  summary: "Write most of the programs as dockerized container."
+  summary: "Infrastructure as Code - Used for deploying most of my hardware."
   categories: ["homelab"]
   url: "https://www.ansible.com/"
   
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container."
+  summary: "Application deployment and management. Running most of my homelab apps."
   categories: ["homelab"]
   url: "https://www.docker.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main operating system. Comfortable working with the CLI."
   categories: ["homelab"]

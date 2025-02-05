@@ -7,7 +7,7 @@ menu:
     name: Diesel Heater
     identifier: dieselheater
     parent: hobby
-    weight: 30
+    weight: 50
 tags: ["hobby", "3dprint", "electronics"]
 categories: ["Basic"]
 ---
