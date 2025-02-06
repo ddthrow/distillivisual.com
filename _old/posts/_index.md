@@ -1,3 +1,3 @@
 ---
-title: Project Portfolio
+title: Project Showcase
 ---

@@ -31,7 +31,7 @@ experiences:
     darkLogo: /images/sections/experiences/yes_onB.png
     overview: Biggest regional sports broadcaster in the USA.
   positions:
-  - designation: Motion Graphics Designer
+  - designation: Vizrt Artist | Jr. Motion Graphics Designer
     start: 2019
     end: 2021
 
@@ -43,15 +43,14 @@ experiences:
     darkLogo: /images/sections/experiences/pgh_onB.png
     overview: In-game and digital content designer.
   positions:
-  - designation: Motion Graphics Designer
+  - designation: Motion Graphics Designer | VFX | Editor
     start: 2014
     end: 2019
 
   - designation: Intern
     start: 2013
     end: 2014
-
-
+    
 - company:
     name: Art Institute of Pittsburgh
     url: "https://www.pittsburghpenguins.com"

@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -27,25 +27,25 @@ projects:
   image: /images/sections/projects/cnxnlive.png
   role: Motion Graphics Designer
   timeline: "2022 - 2025"
-  url: "/projects//professional/cnxn/cnxnlive"
+  url: "projects//professional/cnxn/cnxnlive"
   summary: A series of parody movie trailers where hockey players act out their favorite holiday characters.
   tags: ["CNXN", "motion", "video"]
 
-- name: YES Network - VizRT
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/viz.png
-  role: VizRt Artist
-  timeline: "2016 - 2019"
-  url: "/projects//professional/yes/viz"
-  summary: A series of parody movie trailers where hockey players act out their favorite holiday characters.
-  tags: ["YES", "motion", "video"]
+# - name: YES Network - VizRT
+#   logo: /images/sections/projects/toha.png
+#   image: /images/sections/projects/viz.png
+#   role: VizRt Artist
+#   timeline: "2016 - 2019"
+#   url: "projects//professional/yes/viz"
+#   summary: A series of parody movie trailers where hockey players act out their favorite holiday characters.
+#   tags: ["YES", "motion", "video"]
 
 - name: Pittsburgh Penguins - Opening Videos
   logo: /images/sections/projects/toha.png
   image: images/sections/projects/opens.png
   role: Visual Effects
   timeline: "2016 - 2019"
-  url: "/projects//professional/pit/opens"
+  url: "projects//professional/pit/opens"
   summary: A series of parody movie trailers where hockey players act out their favorite holiday characters.
   tags: ["PIT", "motion", "video"]
 
@@ -55,6 +55,6 @@ projects:
   #image: /images/sections/projects/ecards.png
   role: Pre-Production, Compositor
   timeline: "2016 - 2019"
-  url: "/projects/professional/pit/ecards"
+  url: "projects/professional/pit/ecards"
   summary: A series of parody movie trailers where hockey players act out their favorite holiday characters.
   tags: ["PIT", "video"]

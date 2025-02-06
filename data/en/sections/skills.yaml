@@ -51,7 +51,7 @@ skills:
 
 - name: Soldering
   logo: /images/sections/skills/soldering.png
-  summary: "Low voltage circuit design and soldering."
+  summary: "Low voltage LED strip design and soldering."
   categories: ["make"]
 
 
@@ -72,9 +72,9 @@ skills:
   
 - name: Ansible
   logo: /images/sections/skills/ansible.png
-  summary: "Infrastructure as Code - Used for deploying most of my hardware."
+  summary: "Infrastructure as Code - Used for deploying most of my hardware. Click to visit my Git repo."
   categories: ["homelab"]
-  url: "https://www.ansible.com/"
+  url: "https://www.github.com/ddthrow/ansible"
   
 - name: Docker
   logo: /images/sections/skills/docker.svg

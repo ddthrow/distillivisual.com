@@ -40,8 +40,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "Vimeo Page"
+  url: "https://vimeo.com/user20356494"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -57,13 +57,7 @@ badges:
   url: "https://www.cnxnhelix.com/helix-pro"
   badge: "https://static.wixstatic.com/media/9aa290_7118393f3e5d41feab9ca8426200c2ba~mv2.png/v1/fill/w_774,h_842,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/HelixProIcon_Color_OL.png"
 
-- type: soft-skill-indicator
-  name: FPV Pilot
-  percentage: 85
-  color: blue
-
-# you can also provide color code instead of the color name
 # - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+#   name: FPV Pilot
+#   percentage: 85
+#   color: blue

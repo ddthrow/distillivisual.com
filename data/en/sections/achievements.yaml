@@ -10,6 +10,10 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
+- title: Mid-Atlantic & NY Regional Emmy Winner
   image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
+  summary: Graphic Arts/Animation, Editing, Motion Graphics
+
+- title: Pittsburgh 48 Hour Film Project
+  image: /images/sections/achievements/presenter.jpg
+  summary: The Decisionists - Best Digital SFX, Something Happens in the Night - Best Digital SFX

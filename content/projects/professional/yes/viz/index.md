@@ -10,7 +10,7 @@ menu:
     weight: 30
 author:
   name: YES Network
-  image: /images/author/jessica.png
+  image: /images/author/yesnet.png
 tags:
 - "YES"
 - video
@@ -18,16 +18,6 @@ tags:
 math: true
 ---
 
-Synopsis: 
-
-Role:
-
----
-# Process
-
----
-
-# Breakdown
-
+# Work in progress
 
 ---

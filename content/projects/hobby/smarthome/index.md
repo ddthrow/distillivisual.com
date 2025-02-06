@@ -8,7 +8,10 @@ menu:
     identifier: smarthome
     parent: homelab
     weight: 20
-tags: ["homelab"]
+tags: 
+- hobby
+- homelab
+- automation
 categories: ["Basic"]
 ---
 

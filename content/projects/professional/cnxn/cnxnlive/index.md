@@ -8,8 +8,18 @@ menu:
     identifier: cnxnlive
     parent: cnxn
     weight: 10
-tags: ["Basic", "Multi-lingual"]
+author:
+  name: Pittsburgh Penguins
+  image: /images/author/cnxn.png
+tags: 
+- CNXN
+- motion
+- editing
 categories: ["Basic"]
 ---
 
-Connection Live (CNXN Live) is the company's annual company kickoff conference. Top-sellers and partners gather to hear from the company's leadership about the upcoming year.
+# Work in progress
+
+---
+
+The company's annual kickoff conference where top-sellers and partners gather for week-long . to hear from the company's leadership about the upcoming year.

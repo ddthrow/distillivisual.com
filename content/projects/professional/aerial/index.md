@@ -10,9 +10,11 @@ menu:
     weight: 30
 author:
   name: DistilliVisual
-  image: /images/author/jessica.png
+  image: /images/author/dave.png
 math: true
 ---
+
+More to come.
 
 ---
 
