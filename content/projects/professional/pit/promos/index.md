@@ -10,7 +10,7 @@ menu:
     weight: 40
 author:
   name: Pittsburgh Penguins
-  image: /images/author/dave.png
+  image: /images/author/pit.png
 tags:
 - PIT
 - editing
