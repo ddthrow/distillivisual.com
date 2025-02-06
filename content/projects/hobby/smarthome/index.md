@@ -16,18 +16,24 @@ categories: ["Basic"]
 ---
 
 My smart home implementation theory:
+<br>
+<br>
+1. Augment don't replace - The home should function the same without the IOT gear.
 
-1. Local Only - All hardware must not require a proprietary app or hub. Open protocols like zigbee, mqtt, and ESPHome keep hardware vendor agnostic.
+2. Local Only - All hardware must not require a proprietary app or hub. Open protocols like zigbee, mqtt, and ESPHome keep hardware vendor agnostic.
 
-2. Portable - Adds on top of the existing infrastructure. I live in apartments so many devices are standalone and not seamlessly integrated into the home's fixtures. 
+3. Portable - Adds on top of the existing infrastructure. I live in apartments so many devices are standalone and not seamlessly integrated into the home's fixtures. 
 
-3. Isolated and restricted - Unless necesary, most devices are blocked from the internet as well as segmented to their own IOT network.
+4. Isolated and restricted - Unless necesary, most devices are blocked from the internet as well as segmented to their own IOT network.
 
-4. Experimenting with voice control. Home Assistant Voice PE offers local only wake word detection, STT using Whisper, and TTS using Piper.
+5. Experimenting with voice control. Home Assistant Voice PE offers local only wake word detection, STT using Whisper, and TTS using Piper.
 
+<br>
 
 ---
+
 # Features
+
 - **Lighting** - Motion activated with adaptive color temperature and brightness
 - **Climate** - Humidifier and thermostat adjust based on home/away/night status. 
 - **Blinds**- Auto tilting triggered via sun events. Close blind to prevent tv glare.

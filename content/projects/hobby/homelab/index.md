@@ -16,7 +16,7 @@ categories: ["Basic"]
 ---
 
 # Work in progress
-
+<br>
 Removing Google from the equation.
 
 ---
