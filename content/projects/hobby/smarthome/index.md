@@ -32,8 +32,12 @@ My smart home implementation theory:
 
 ---
 
-# Features
+## Features
 
+- **Modes** 
+  * Home = Normal operation 
+  * Away = No motion automations because of cat. Simulated presence 
+  * Guest - Limited automations.
 - **Lighting** - Motion activated with adaptive color temperature and brightness
 - **Climate** - Humidifier and thermostat adjust based on home/away/night status. 
 - **Blinds**- Auto tilting triggered via sun events. Close blind to prevent tv glare.
@@ -45,45 +49,71 @@ My smart home implementation theory:
 - **Litter Robot** - No possibility for local control so I don't use the wifi features. Instead I added a door/window contact sensor for tracking usage and alerting faults. 
 - **Robot Vacuum** - Activated based on litter usage and only when nobody is home
 - **Hydroponics Garden** - Automated temperature, humidity, ventilation, and water consumption tracking.
-- Shopping lists and reminders
-- 
-
-
----
-
-### Tracking
-- Energy Monitoring
-- Live vehicle OBD data using Torque
-- DIY Solar battery BMS tracking
-
+- Shopping lists and reminders 
+- **Alerting** - Weather, system errors, storage capacity,
 
 ---
 
-# Custom Sensors
+## Custom Sensors and Lights
+
+{{< split 6 6 >}}
+
+### ESPHome
 - Room presence, temperature, humidity, luminance
 - Window blind tilt motors for cheap horizontal blinds. Custom 3d printed mounting brackets
-- Bed and couch weight sensors
+- Weight Sensors - Bed, Couch, Humidifier, Garden water tank
 - IR blaster - TV control without remote. Custom dashboard on phone and usable via voice commands
-
 
 ---
 
-
-# LED Lighting
+### WLED
 
 Most lighting projects are running the [WLED](https://kno.wled.ge/) project.
 
+* Under Cabinet Lighting
+* TV Ambilight Clone
+* Stairs Underlighting
+* Ceiling Spiral Light
+* LED Ticker / Banner
+* Mantel edge lighting
+* Nanoleaf
+* 8x8 pixel panel
+
+{{< /split >}}
+
 ---
 
-# Weather Station
+## Monitoring
 
-- Lightning Monitor
-- Rain
-- Space weather (Aroura)
-- Earthquake
-- Tides
-- Airport METAR plotting
+{{< split 4 4 4 >}}
+
+### Weather Station
+
+* Lightning Monitor
+* Rain
+* Space weather (Aroura)
+* Earthquake
+* Tides
+* Airport METAR plotting
+
+---
+
+### Energy Monitoring
+* 
+
+---
+
+### Devices
+* Vehicle OBD data using Torque
+* Solar Battery BMS
+
+
+{{< /split >}}
 
 
 ---
 
+## Dashboards
+
+* Fire10 Tablet
+* E-Ink Displays
