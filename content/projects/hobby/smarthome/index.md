@@ -15,8 +15,12 @@ tags:
 categories: ["Basic"]
 ---
 
-My smart home implementation theory:
-<br>
+Automating my home with the help of Home Assistant. All devices are 'local-only' and don't require the cloud to work.
+
+---
+
+## Theory
+
 <br>
 1. Augment don't replace - The home should function the same without the IOT gear.
 
@@ -25,8 +29,6 @@ My smart home implementation theory:
 3. Portable - Adds on top of the existing infrastructure. I live in apartments so many devices are standalone and not seamlessly integrated into the home's fixtures. 
 
 4. Isolated and restricted - Unless necesary, most devices are blocked from the internet as well as segmented to their own IOT network.
-
-5. Experimenting with voice control. Home Assistant Voice PE offers local only wake word detection, STT using Whisper, and TTS using Piper.
 
 <br>
 
@@ -51,12 +53,14 @@ My smart home implementation theory:
 - **Hydroponics Garden** - Automated temperature, humidity, ventilation, and water consumption tracking.
 - Shopping lists and reminders 
 - **Alerting** - Weather, system errors, storage capacity,
+- **Voice Control** - Home Assistant Voice PE offers local-only wake word detection, STT using Whisper, and TTS using Piper.
+
+
 
 ---
 
-## Custom Sensors and Lights
+## Custom Sensors
 
-{{< split 6 6 >}}
 
 ### ESPHome
 - Room presence, temperature, humidity, luminance
@@ -65,6 +69,8 @@ My smart home implementation theory:
 - IR blaster - TV control without remote. Custom dashboard on phone and usable via voice commands
 
 ---
+
+## Custom Lights
 
 ### WLED
 
@@ -78,8 +84,6 @@ Most lighting projects are running the [WLED](https://kno.wled.ge/) project.
 * Mantel edge lighting
 * Nanoleaf
 * 8x8 pixel panel
-
-{{< /split >}}
 
 ---
 
@@ -99,7 +103,7 @@ Most lighting projects are running the [WLED](https://kno.wled.ge/) project.
 ---
 
 ### Energy Monitoring
-* 
+* Power monitoring smart plugs
 
 ---
 

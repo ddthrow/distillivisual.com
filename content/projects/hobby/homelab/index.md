@@ -298,7 +298,7 @@ Network Name - LAN - WiFi
 
 ---
 
-## DeG**gleing
+## DeG**gleing - Personal Cloud
 Popular alternatives to replace the big G. A lot of these were mentioned above in the software section.
 
 
@@ -332,3 +332,12 @@ OSMand+, Gmaps WV (F-Droid app)
 
 
 {{< /split >}}
+
+---
+
+## Media Server
+
+---
+
+## Home Automation
+This topic is detailed in full on the [SmartHome](/projects/hobby/smarthome) page.

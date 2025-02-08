@@ -26,36 +26,66 @@ buttons:
 skills:
 - name: Motion Graphic Design
   logo: /images/sections/skills/ae.png
-  summary: "Proficient in the Adobe suite."
+  summary: "Expert in 2D using After Effects and proficient in 3D with Cinema4D"
   categories: ["video"]
 
-- name: Drone Pilot
-  logo: /images/sections/skills/drone.png
-  summary: "FPV sUAS pilot with cinematic, tinywhoop, and freestyle experience."
+- name: Looping
+  logo: /images/sections/skills/ae.png
+  summary: "LED video boards often have irregular resolutions and require content to loop in space and time."
+  categories: ["video"]
+
+- name: Compositing
+  logo: /images/sections/skills/ae.png
+  summary: "Keying, painting, tracking, object replacement."
+  categories: ["video"]
+
+- name: Toolkitting
+  logo: /images/sections/skills/ae.png
+  summary: "After Effects templates for easy to use handoff."
+  categories: ["video"]
+
+
+
+- name: Video Editing
+  logo: /images/sections/skills/pr.svg
+  summary: "High energy hype videos, retrospectives, promos"
   categories: ["video"]
 
 - name: Cinematography
   logo: /images/sections/skills/cam.png
-  summary: "DP and camera operator."
+  summary: "DP and camera operator"
+  categories: ["video"]
+
+- name: Drone Pilot
+  logo: /images/sections/skills/drone.png
+  summary: "FPV sUAS pilot with cinematic, tinywhoop, and freestyle experience"
+  categories: ["video"]
+
+
+- name: Chyron Lyric Pro
+  logo: /images/sections/skills/chyron.png
+  summary: "Graphic Supervisor experience loading graphics pre-game"
+  categories: ["video"]
+
+- name: VizRT
+  logo: /images/sections/skills/vizrt.png
+  summary: "Program and edit templates for various on-air broadcasts. Experience with Viz Artist, Trio, and Libero"
   categories: ["video"]
 
 - name: 3D Printing
   logo: /images/sections/skills/3dp.png
-  summary: "Functional parts designer."
+  summary: "Equiped with the Prusa MK4 with the 5-color MMU3"
   categories: ["make"]
 
 - name: CAD Design
   logo: /images/sections/skills/cad.png
-  summary: "Functional parts designer."
-  categories: ["video", "make"]
+  summary: "Functional parts designer"
+  categories: ["make"]
 
 - name: Soldering
   logo: /images/sections/skills/soldering.png
   summary: "Low voltage LED strip design and soldering."
   categories: ["make"]
-
-
-    
 
 - name: Node-Red
   logo: /images/sections/skills/node-red.png
@@ -85,4 +115,10 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Comfortable working with the CLI."
+  categories: ["homelab"]
+
+
+- name: Scripting
+  logo: /images/sections/skills/scripting.svg
+  summary: "Simple bash scripting for system commands."
   categories: ["homelab"]
