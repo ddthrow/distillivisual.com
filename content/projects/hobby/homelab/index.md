@@ -95,6 +95,25 @@ PDF tools, IT tools, distrubuted video transcoding, SSO authentication, meta sea
 <br>
 <br>
 
+### PSU
+
+This is a custom 12v/5v power supply I built to remove all 'wall wart' plugs. I've used a mix of short cables with barrel jacks on both ends as well as build custom barrel-usb power cables for the 5v devices.
+
+<br>
+<br>
+
+{{< img src="./PSU-top.png" height="500" align="center" title="DIY-PSU-Top" >}}
+
+<br>
+<br>
+
+{{< img src="./PSU-front.png" width="750" align="center" title="DIY-PSU-Front" >}}
+
+
+<br>
+<br>
+<br>
+
 ---
 
 ## Hardware

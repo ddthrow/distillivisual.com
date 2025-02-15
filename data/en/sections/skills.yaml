@@ -26,25 +26,13 @@ buttons:
 skills:
 - name: Motion Graphic Design
   logo: /images/sections/skills/ae.png
-  summary: "Expert in 2D using After Effects and proficient in 3D with Cinema4D"
-  categories: ["video"]
-
-- name: Looping
-  logo: /images/sections/skills/ae.png
-  summary: "LED video boards often have irregular resolutions and require content to loop in space and time."
+  summary: "Expert in 2D using After Effects and proficient in 3D with Cinema4D. Experience animating for LED video boards with looping video in space and time."
   categories: ["video"]
 
 - name: Compositing
   logo: /images/sections/skills/ae.png
   summary: "Keying, painting, tracking, object replacement."
   categories: ["video"]
-
-- name: Toolkitting
-  logo: /images/sections/skills/ae.png
-  summary: "After Effects templates for easy to use handoff."
-  categories: ["video"]
-
-
 
 - name: Video Editing
   logo: /images/sections/skills/pr.svg

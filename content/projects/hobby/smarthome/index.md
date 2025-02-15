@@ -22,6 +22,7 @@ Automating my home with the help of Home Assistant. All devices are 'local-only'
 ## Theory
 
 <br>
+
 1. Augment don't replace - The home should function the same without the IOT gear.
 
 2. Local Only - All hardware must not require a proprietary app or hub. Open protocols like zigbee, mqtt, and ESPHome keep hardware vendor agnostic.
@@ -68,6 +69,11 @@ Automating my home with the help of Home Assistant. All devices are 'local-only'
 - Weight Sensors - Bed, Couch, Humidifier, Garden water tank
 - IR blaster - TV control without remote. Custom dashboard on phone and usable via voice commands
 
+
+{{< img src="./esp.png" width="750" align="center" title="ESP Devices" >}}
+
+<br>
+
 ---
 
 ## Custom Lights
@@ -79,11 +85,23 @@ Most lighting projects are running the [WLED](https://kno.wled.ge/) project.
 * Under Cabinet Lighting
 * TV Ambilight Clone
 * Stairs Underlighting
+
+{{< img src="./stairs.png" width="750" align="center" title="Nanoleaf" >}}
+
 * Ceiling Spiral Light
+
+{{< img src="./ceiling.png" width="750" align="center" title="Ceiling" >}}
+
 * LED Ticker / Banner
 * Mantel edge lighting
-* Nanoleaf
 * 8x8 pixel panel
+* Nanoleaf
+
+{{< img src="./nanoleaf.png" width="750" align="center" title="Nanoleaf" >}}
+
+* Van Controller and Lighting
+
+{{< img src="./vanController.png" width="750" align="center" title="Van Controller" >}}
 
 ---
 
